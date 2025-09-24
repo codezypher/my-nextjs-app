@@ -58,14 +58,14 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src={getImagePath("/images/logo/logo-2.jpg")}
+                  src={getImagePath("/images/logo/logo-2.png")}
                   alt="logo"
                   width={140}
                   height={30}
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src={getImagePath("/images/logo/logo-2.jpg")}
+                  src={getImagePath("/images/logo/logo-2.png")}
                   alt="logo"
                   width={140}
                   height={30}
