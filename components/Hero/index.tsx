@@ -1,5 +1,5 @@
 "use client";
-import NewsLatterBox from "./NewsLatterBox";
+
 import Link from "next/link";
 
 
